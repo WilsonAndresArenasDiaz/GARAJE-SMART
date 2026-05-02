@@ -5,6 +5,7 @@ GARAJE INTELIGENTE DETECTION POR MEDIO DE YOLO DE DISPONIBILIDAD
 ## 📌 Descripción del Proyecto
 Sistema embebido que controla un garaje inteligente en miniatura para autos HotWheels de 8 espacios. Desarrollado con ESP32, sensores infrarrojos, servomotor (talanquera), pantalla LCD y visión por computadora con YOLO.
 
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/59746d9a-f1f1-452f-a9f5-85ca77a504d6" />
 
 ## 🛠️ Componentes de Hardware
 | Componente | Cantidad | Especificaciones |
@@ -17,6 +18,7 @@ Sistema embebido que controla un garaje inteligente en miniatura para autos HotW
 | LED Verde | 1 | 5mm |
 | Resistencias 220Ω | 2 | Para LEDs |
 | Cámara | 1 | USB o ESP32-CAM |
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f039c25e-50e8-4f90-a49e-09334c33dd65" />
 
 ## 🔌 Conexiones Eléctricas
 | Componente | Pin ESP32 |
