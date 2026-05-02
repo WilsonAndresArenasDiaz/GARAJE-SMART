@@ -1,7 +1,8 @@
 # GARAJE-SMART
 GARAJE INTELIGENTE DETECTION POR MEDIO DE YOLO DE DISPONIBILIDAD 
 # 🚗 GARAJE-SMART - Estacionamiento Inteligente para HotWheels
-![Uploading image.png…]()
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/d425b86f-2051-49b6-bd51-233f0d12da09" />
+
 
 ## 📌 Descripción del Proyecto
 Sistema embebido que controla un garaje inteligente en miniatura para autos HotWheels de 8 espacios. Desarrollado con ESP32, sensores infrarrojos, servomotor (talanquera), pantalla LCD y visión por computadora con YOLO.
